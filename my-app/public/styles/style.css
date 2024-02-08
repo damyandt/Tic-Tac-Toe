@@ -67,5 +67,7 @@ svg {
 }
 
 .title svg {
-    width: 5%;
+    width: 3.5%;
+    margin: 0 0.2em;
+    fill: #3e51e0de;
 }
